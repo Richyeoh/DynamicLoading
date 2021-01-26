@@ -1,0 +1,9 @@
+{
+  "screen_width": 768,
+  "screen_height": 1024,
+  "view": {
+    "width": 512,
+    "height": 512,
+    "background": "#ff0000"
+  }
+}
